@@ -1,4 +1,4 @@
-// Import rule modules
+// Import rule modules (always located at the top of the js file)
 import { isPalindrome } from './rules/palindrome.js';
 import { minLength } from './rules/minLength.js';
 import { containsNumber } from './rules/containsNumber.js';

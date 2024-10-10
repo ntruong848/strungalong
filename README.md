@@ -33,12 +33,12 @@ You will need a basic understanding of JavaScript, specifically how to use ES6 m
 Clone the repository:
 
 ```
-git clone https://github.com/your-username/string-master.git
+git clone https://github.com/EvolveU-FSD/strungalong.git
 ```
 Navigate into the project folder:
 
 ```
-cd string-master
+cd strungalong
 ```
 Open index.html in your web browser:
 
